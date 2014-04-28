@@ -1,0 +1,2 @@
+Link to include a calendar in android application :- 
+http://w2davids.wordpress.com/android-simple-calendar/
