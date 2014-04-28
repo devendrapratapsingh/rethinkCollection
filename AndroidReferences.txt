@@ -1,2 +1,6 @@
 Link to include a calendar in android application :- 
 http://w2davids.wordpress.com/android-simple-calendar/
+
+
+Link to have sample convertor app with Android API
+https://www.youtube.com/watch?v=3Nv6TV4cyFY
