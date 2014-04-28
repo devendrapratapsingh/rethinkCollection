@@ -4,3 +4,6 @@ http://w2davids.wordpress.com/android-simple-calendar/
 
 Link to have sample convertor app with Android API
 https://www.youtube.com/watch?v=3Nv6TV4cyFY
+
+PhoneGap support for calendar:-
+http://jbkflex.wordpress.com/2013/02/12/adding-calendar-events-phonegap-android-plugin/
