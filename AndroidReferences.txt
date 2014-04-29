@@ -7,3 +7,6 @@ https://www.youtube.com/watch?v=3Nv6TV4cyFY
 
 PhoneGap support for calendar:-
 http://jbkflex.wordpress.com/2013/02/12/adding-calendar-events-phonegap-android-plugin/
+
+Multi screen linking project 
+http://www.mkyong.com/android/android-activity-from-one-screen-to-another-screen/
