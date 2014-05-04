@@ -14,3 +14,12 @@ http://www.mkyong.com/android/android-activity-from-one-screen-to-another-screen
 Example Application USA :-
 https://play.google.com/store/apps/details?id=com.greatclips.android
 
+
+
+STEUP Links 
+
+If your android setup gives Error while running phonegap :-
+
+http://stackoverflow.com/questions/20953488/phonegap-run-android-phonegap-3-under-windows-cant-build-a-project
+
+How to run Android SDK from your machine by eiditing 
