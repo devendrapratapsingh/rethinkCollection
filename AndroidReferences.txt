@@ -23,3 +23,6 @@ If your android setup gives Error while running phonegap :-
 http://stackoverflow.com/questions/20953488/phonegap-run-android-phonegap-3-under-windows-cant-build-a-project
 
 How to run Android SDK from your machine by eiditing 
+
+Hibernate with mongoDb example:
+http://pragmaticintegrator.wordpress.com/2011/07/14/use-spring-and-hibernate-with-mongodb/
