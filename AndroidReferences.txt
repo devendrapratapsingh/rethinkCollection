@@ -26,3 +26,6 @@ How to run Android SDK from your machine by eiditing
 
 Hibernate with mongoDb example:
 http://pragmaticintegrator.wordpress.com/2011/07/14/use-spring-and-hibernate-with-mongodb/
+
+Known Error m2 repo is picked default klm eden :-
+delete .m2 folder or rename it and set M2_HOME , Path environment variable set %M2% and run now.
