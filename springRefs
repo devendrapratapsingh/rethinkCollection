@@ -1,2 +1,5 @@
 Annotation based spring dependency injection and configuration
 http://bytescrolls.blogspot.nl/2009/12/how-stuff-works-spring-component.html
+
+Maven dynamic web project creation steps used for rest-web projetc 
+http://fruzenshtein.com/setup-of-dynamic-web-project-using-maven/
